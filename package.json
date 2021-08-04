@@ -34,10 +34,10 @@
     "prepublishOnly": "yarn build"
   },
   "dependencies": {
+    "lodash.maxby": "^4.6.0",
     "vue-observe-visibility": "^0.4.6"
   },
   "peerDependencies": {
-    "lodash": "^4.17.15",
     "vue": "^2.6.10"
   },
   "devDependencies": {

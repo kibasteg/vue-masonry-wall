@@ -14,7 +14,7 @@
 </template>
 
 <script>
-  import {maxBy} from 'lodash'
+  import maxBy from 'lodash.maxby';
   import {ObserveVisibility} from "vue-observe-visibility";
 
   /**
